@@ -22,4 +22,21 @@ var constructor:[String: String] = [
 
 Voilà!
 
+## Result
+
+```swift
+var startTime: Int
+var frequencyNotification: Int
+var endTime: Int
+    
+    
+init (startTime: Int, frequencyNotification: Int, endTime: Int) {
+    self.startTime = startTime
+    self.frequencyNotification = frequencyNotification
+    self.endTime = endTime    
+}
+```
+
+  
+
 *Only for Swift*
