@@ -1,4 +1,4 @@
-# InitConstructor Xcode
+# Init constructor Xcode
 
 Just created this playground in order to automatically generate the init constructor of Xcode. 
 
@@ -22,4 +22,4 @@ var constructor:[String: String] = [
 
 Voilà!
 
-*Swift*
+*Only for Swift*
